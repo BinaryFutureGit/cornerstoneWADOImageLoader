@@ -3,7 +3,6 @@ codecs/
 config/
 docs/
 examples/
-src/
 test/
 scripts/
 testImages/
